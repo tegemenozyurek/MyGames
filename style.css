@@ -1,0 +1,127 @@
+html{
+    background-color: #FFCF9D;
+}
+
+body{
+    margin: 0;
+}
+
+h1, p{
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    margin: 15px;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+.gameReview{
+    font-size: 2rem;
+}
+
+.title{
+    height: 100px;
+    width: 100%;
+    background-color: #F5F5DC;
+}
+
+/*Logo*/
+body > div > img{
+    position: relative;
+    left: 46%;
+    bottom: 10px;
+}
+
+.intro{
+    height: 220px;
+    width: 650px;
+    background-color: #F5F5DC;
+
+    position: relative;
+    left: 33%;
+    top: 10px;
+    border: solid black 10px;
+}
+
+/*Boost*/
+.boost{
+    height: 600px;
+    width: 1600px;
+    border: solid #004225 10px;
+    background-color: #F5F5DC;
+    position: relative;
+    left: 140px;
+    top: 20px;
+}
+
+.leftSide{
+    height: 100%;
+    width: 50%;
+    /*background-color: blue;*/
+    position: absolute;
+}
+
+.rightSide{
+    height: 100%;
+    width: 800px;
+    /*background-color: red;*/
+    position: absolute;
+    left: 800px;
+}
+
+.right-boost > h1{
+    font-size: 4rem;
+}
+
+/*Pingus Fish*/
+.pingusFish{
+    height: 600px;
+    width: 1600px;
+    border: solid #004225 10px;
+    background-color: #F5F5DC;
+    position: relative;
+    left: 140px;
+    top: 30px;
+}
+
+/*Samurai Blade*/
+.samuraiBlade{
+    height: 600px;
+    width: 1600px;
+    border: solid #004225 10px;
+    background-color: #F5F5DC;
+    position: relative;
+    left: 140px;
+    top: 40px;
+}
+
+.twoPrinceOneCrown{
+    height: 600px;
+    width: 1600px;
+    border: solid #004225 10px;
+    background-color: #F5F5DC;
+    position: relative;
+    left: 140px;
+    top: 50px;
+}
+
+.iceHockey{
+    height: 600px;
+    width: 1600px;
+    border: solid #004225 10px;
+    background-color: #F5F5DC;
+    position: relative;
+    left: 140px;
+    top: 60px;
+}
+
+.pixelDungeons{
+    height: 600px;
+    width: 1600px;
+    border: solid #FFB000 10px;
+    background-color: #F5F5DC;
+    position: relative;
+    left: 140px;
+    top: 70px;
+}
